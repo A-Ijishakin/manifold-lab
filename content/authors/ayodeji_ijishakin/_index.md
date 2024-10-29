@@ -28,9 +28,11 @@ interests:
 education:
   courses:
   - course: MSc Neuroscience & Neuroimaging
+    institution: King's College London
+    year: 2021
   - course: MRes in Medical Imaging
     institution: University College London
-    year: 2021
+    year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
