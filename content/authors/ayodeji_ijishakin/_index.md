@@ -17,14 +17,17 @@ organizations:
   url: "https://www.ucl.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include neuroimaging, artificial intelligence and interpretability.
+bio: My research interests include neuroimaging generative modelling, representation learning and mecehanistic interpretability.
 
 interests:
 - Neuroimaging
-- Computational Modelling
+- Generative Modelling
+- Mechanistic Interpretability
+- Amyotrophic Lateral Sclerosis 
 
 education:
   courses:
+  - course: MSc Neuroscience & Neuroimaging
   - course: MRes in Medical Imaging
     institution: University College London
     year: 2021
